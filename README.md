@@ -1,5 +1,5 @@
 # Docket
-
+[![tests](https://github.com/suhrith13/Docket/actions/workflows/tests.yml/badge.svg)](https://github.com/suhrith13/Docket/actions/workflows/tests.yml)
 **Put every pull request on trial.** Docket runs code review as a courtroom inside a [Switch](https://github.com/sandbox-quantum/switch) room: a prosecutor agent files charges backed by real failing tests, a defense agent rebuts or fixes them, a clerk keeps the docket, and a human judge rules. Every ruling becomes case law that the agents cite on later pull requests.
 
 Built for the [Flip the Switch](https://www.wemakedevs.org/hackathons/switch) hackathon, Track 01: Best Business Workflow.
