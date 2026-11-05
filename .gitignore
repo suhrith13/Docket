@@ -1,0 +1,8 @@
+.env
+docket-state.json
+docket-state.tmp
+.clerk-connection-id
+__pycache__/
+.pytest_cache/
+.venv/
+docket-demo-shop/
