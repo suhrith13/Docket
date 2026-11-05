@@ -80,7 +80,7 @@ You need Windows, macOS or Linux with Docker Desktop, [Switch Console](https://g
 3. **Create the agents and the room.** Send switch-buddy the two messages in [room/setup-with-switch-buddy.md](room/setup-with-switch-buddy.md).
 4. **Run the clerk:**
    ```bash
-   git clone https://github.com/suhrith13/docket && cd docket
+   git clone https://github.com/suhrith13/Docket && cd Docket
    python -m venv .venv
    .venv\Scripts\activate        # macOS/Linux: source .venv/bin/activate
    pip install -r requirements.txt
